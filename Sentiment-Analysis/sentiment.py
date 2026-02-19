@@ -3,7 +3,7 @@ import requests
 
 # ==== Configuration ====
 EURI_API_URL = "https://api.euron.one/api/v1/euri/chat/completions"
-EURI_API_KEY = "euri-885f6caf5ad7d80ca37b904743d8bc03963b857f9bbf05303760aedc2d6f6499"  # 🔐 Replace with your EURI API key
+EURI_API_KEY = "YOUR_API_KEY"  # 🔐 Replace with your EURI API key
 MODEL = "gemini-2.0-flash-001"
 
 # ==== Prompt Template ====
