@@ -1,4 +1,4 @@
-<img width="1193" height="811" alt="Screenshot 2026-02-18 214209" src="https://github.com/user-attachments/assets/96b7ba88-ddd3-4cdd-abc4-8c7439c35090" /># Built-2-Mini-LLM-Projects
+# Built-2-Mini-LLM-Projects
 While these projects may look small, they represent important real-world applications of **Generative AI.**  
 The goal of these projects is to understand how Large Language Models (LLMs) can simplify tasks that traditionally required complex models, rules, or extensive coding.
 This repository contains two mini projects:
